@@ -44,9 +44,6 @@ required check.
 
 ---
 
-<div align="center">
-<sub>
-
 **Capital at risk.** The value of investments can fall as well as rise and you may
 get back less than you invest.
 
@@ -54,6 +51,3 @@ Gather Being is a registered trading name of GNT Corporation. GNT Corporation
 (FCA Firm Reference Number 1019605) is an Appointed Representative of 1OAK Capital
 Limited, which is authorised and regulated by the Financial Conduct Authority,
 under Firm Reference Number 501453.
-
-</sub>
-</div>
